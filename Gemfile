@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'calabash-cucumber', '0.14.1'
+gem 'calabash-android', '0.5.8'
+gem 'xamarin-test-cloud', '1.1.1'
+gem 'rake'
